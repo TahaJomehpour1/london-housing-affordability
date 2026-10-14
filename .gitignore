@@ -1,0 +1,8 @@
+# Land Registry files are too large for GitHub. The README explains how to download them.
+data/raw/
+data/processed/
+
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+.env
