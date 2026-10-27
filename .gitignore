@@ -6,3 +6,4 @@ data/processed/
 .ipynb_checkpoints/
 __pycache__/
 .env
+data/powerbi/
